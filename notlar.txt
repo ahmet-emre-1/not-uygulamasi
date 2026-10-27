@@ -3,3 +3,9 @@ ls : listeler
 pwd : konumu belirtir
 mkdir : dosya olusturur
 chmod : izinleri belirler
+
+git status : neyin degistigini gosterir
+git log : commit gecmisini gosterir
+git diff : son committen farki gosterir
+git diff --staged : neyin stagedlendigini gosterir
+git log --oneline : kompakt gecmis 

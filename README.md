@@ -1,4 +1,4 @@
 ad: git uygulama
 aciklama: git uygulama denemesi
 
-Gelistirici: [Ahmet emre] (1.0.0)
+Gelistirici: [Ahmet emre] (f-1.0.0)

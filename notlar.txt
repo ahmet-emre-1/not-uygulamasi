@@ -1,0 +1,5 @@
+/home : kullanici home dosyasi
+ls : listeler
+pwd : konumu belirtir
+mkdir : dosya olusturur
+chmod : izinleri belirler
